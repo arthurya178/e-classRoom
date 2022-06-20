@@ -1,0 +1,32 @@
+[
+	{
+		"accId": 0,
+		"stdName": "李彥霆",
+		"stdId": "qwe",
+		"stdStatus": 0
+	},
+	{
+		"accId": 2,
+		"stdName": "WJK",
+		"stdId": "A8222820",
+		"stdStatus": 0
+	},
+	{
+		"accId": 3,
+		"stdName": "冰炫風",
+		"stdId": "A7777777",
+		"stdStatus": 0
+	},
+	{
+		"accId": 4,
+		"stdName": "吳佳凱",
+		"stdId": "a8250351",
+		"stdStatus": 1
+	},
+	{
+		"accId": 5,
+		"stdName": "李彥",
+		"stdId": "A8222897",
+		"stdStatus": -1
+	}
+]

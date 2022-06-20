@@ -1,0 +1,80 @@
+[
+	{
+		"line_id": "U6649fcdcf85503034b4cee7a157f870OOO4",
+		"usr_department": "資工",
+		"usr_class": "3B ",
+		"usr_id": "qwe",
+		"usr_name": "李彥霆",
+		"last_login": "",
+		"usr_position": "student",
+		"reg_session": "",
+		"auth": true,
+		"account_id": 0,
+		"session": "R2V2XJB7OV3GLR0VNRDUWR1D"
+	},
+	{
+		"line_id": "asddas",
+		"usr_department": "資工",
+		"usr_class": "3B",
+		"usr_id": "asd",
+		"usr_name": "王大明",
+		"last_login": "",
+		"usr_position": "teacher",
+		"reg_session": "",
+		"auth": true,
+		"account_id": 1,
+		"session": "abc123"
+	},
+	{
+		"line_id": "U80d9dd4122ddd1e26bb756f5c4e200f1",
+		"usr_department": "資工",
+		"usr_class": "3B",
+		"usr_id": "A8222820",
+		"usr_name": "WJK",
+		"last_login": "",
+		"usr_position": "student",
+		"reg_session": "",
+		"auth": true,
+		"account_id": 2,
+		"session": "ACL0JK12BWNORP661M92KDXX"
+	},
+	{
+		"line_id": "U4b4a26a848a86f2616883cba01200bab",
+		"usr_department": "資工",
+		"usr_class": "3B",
+		"usr_id": "A7777777",
+		"usr_name": "冰炫風",
+		"last_login": "",
+		"usr_position": "student",
+		"reg_session": "",
+		"auth": true,
+		"account_id": 3,
+		"session": "GUSQXWXVA6F9F9CIA9NNMPUZ"
+	},
+	{
+		"line_id": "U7557f51fdb595221ed2cc58869ec3b8a",
+		"usr_department": "資工系",
+		"usr_class": "3B",
+		"usr_id": "a8250351",
+		"usr_name": "吳佳凱",
+		"last_login": "",
+		"usr_position": "student",
+		"reg_session": "",
+		"auth": true,
+		"account_id": 4,
+		"session": "834KLCLCNUEVQIWDGMP4WWQQ"
+	},
+	{
+		"line_id": "U6649fcdcf85503034b4cee7a157f8704",
+		"usr_department": "資工",
+		"usr_class": "3B",
+		"usr_id": "A8222897",
+		"usr_name": "李彥",
+		"last_login": "",
+		"usr_position": "student",
+		"reg_session": "",
+		"auth": true,
+		"account_id": 5,
+		"session": "12O8HEV7KDXI4Q8M6Y3ZQ2EH"
+	}
+]

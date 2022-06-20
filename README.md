@@ -20,5 +20,13 @@ npm run build
 npm run lint
 ```
 
+### edit Line RedirectURL
+```
+const line_redirect_URL = "[redirect Link]"
+```
+###edit Line Client Id
+```
+const line_client_id = "[Client Id]"
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

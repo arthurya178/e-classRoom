@@ -24,7 +24,7 @@ npm run lint
 ```
 const line_redirect_URL = "[redirect Link]"
 ```
-###edit Line Client Id
+### edit Line Client Id
 ```
 const line_client_id = "[Client Id]"
 ```
